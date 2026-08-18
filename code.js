@@ -28,4 +28,4 @@ process.nextTick(() => {
 
 console.log("F");
 
-// gar tumhara actual command sudo cp ls networkchuck hai, toh woh alag meaning rakhega—ls ko source file maan kar networkchuck naam ki destination par copy karega.
+// agar tumhara actual command sudo cp ls networkchuck hai, toh woh alag meaning rakhega—ls ko source file maan kar networkchuck naam ki destination par copy karega.
