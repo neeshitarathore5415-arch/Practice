@@ -1,3 +1,5 @@
+// This is for concept clearance
+
 console.log("A");
 
 setImmediate(() => {
@@ -25,3 +27,4 @@ process.nextTick(() => {
 });
 
 console.log("F");
+
